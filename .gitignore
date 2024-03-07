@@ -9,8 +9,3 @@ target/
 *.iml
 .target
 **/target/*
-
-# Eclipse #
-.settings/
-.classpath
-.project
